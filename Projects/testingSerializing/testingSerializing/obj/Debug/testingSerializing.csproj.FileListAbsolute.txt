@@ -1,0 +1,8 @@
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\testingSerializing\testingSerializing\bin\Debug\testingSerializing.exe.config
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\testingSerializing\testingSerializing\bin\Debug\testingSerializing.exe
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\testingSerializing\testingSerializing\bin\Debug\testingSerializing.pdb
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\testingSerializing\testingSerializing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\testingSerializing\testingSerializing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\testingSerializing\testingSerializing\obj\Debug\testingSerializing.csprojResolveAssemblyReference.cache
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\testingSerializing\testingSerializing\obj\Debug\testingSerializing.exe
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\testingSerializing\testingSerializing\obj\Debug\testingSerializing.pdb

@@ -1,0 +1,6 @@
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\Message\Message\bin\Debug\Message.dll.config
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\Message\Message\bin\Debug\Message.dll
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\Message\Message\bin\Debug\Message.pdb
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\Message\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\Message\Message\obj\Debug\Message.dll
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\Message\Message\obj\Debug\Message.pdb

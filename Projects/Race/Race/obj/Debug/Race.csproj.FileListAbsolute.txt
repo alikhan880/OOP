@@ -1,0 +1,6 @@
+c:\users\abakh\documents\visual studio 2015\Projects\Race\Race\bin\Debug\Race.exe.config
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Race\Race\bin\Debug\Race.exe
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Race\Race\bin\Debug\Race.pdb
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Race\Race\obj\Debug\Race.csprojResolveAssemblyReference.cache
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Race\Race\obj\Debug\Race.exe
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Race\Race\obj\Debug\Race.pdb

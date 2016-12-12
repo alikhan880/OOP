@@ -1,0 +1,1 @@
+c:\users\abakh\documents\visual studio 2015\Projects\LoggerDependency\LoggerDependency\bin\Debug\LoggerDependency.exe.config

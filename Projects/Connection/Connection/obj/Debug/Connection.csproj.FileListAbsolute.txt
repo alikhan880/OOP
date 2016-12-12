@@ -1,0 +1,7 @@
+c:\users\abakh\documents\visual studio 2015\Projects\Connection\Connection\bin\Debug\Connection.exe.config
+c:\users\abakh\documents\visual studio 2015\Projects\Connection\Connection\bin\Debug\Connection.exe
+c:\users\abakh\documents\visual studio 2015\Projects\Connection\Connection\bin\Debug\Connection.pdb
+c:\users\abakh\documents\visual studio 2015\Projects\Connection\Connection\bin\Debug\MySql.Data.dll
+c:\users\abakh\documents\visual studio 2015\Projects\Connection\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+c:\users\abakh\documents\visual studio 2015\Projects\Connection\Connection\obj\Debug\Connection.exe
+c:\users\abakh\documents\visual studio 2015\Projects\Connection\Connection\obj\Debug\Connection.pdb

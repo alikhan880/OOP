@@ -1,0 +1,12 @@
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\bin\Debug\StartPoint.exe.config
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\bin\Debug\StartPoint.exe
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\bin\Debug\StartPoint.pdb
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\obj\Debug\StartPoint.csprojResolveAssemblyReference.cache
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\obj\Debug\StartPoint.exe
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\obj\Debug\StartPoint.pdb
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\bin\Debug\Message.dll
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\bin\Debug\RabbitMQ.Client.dll
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\bin\Debug\Message.pdb
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abakh\Documents\Visual Studio 2015\Projects\Endterm\StartPoint\StartPoint\bin\Debug\RabbitMQ.Client.xml
